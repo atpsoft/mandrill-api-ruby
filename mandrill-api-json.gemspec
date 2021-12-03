@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 Gem::Specification.new do |s|
     s.name = 'mandrill-api-json'
     s.version = '1.0.56'
@@ -9,4 +11,5 @@ Gem::Specification.new do |s|
     s.homepage = 'https://github.com/atpsoft/mandrill-api-ruby'
     s.add_dependency 'json', '>= 1.7.7', '< 3'
     s.add_dependency 'excon', '>= 0.16.0', '< 1.0'
+    s.license = 'Apache-2.0'
 end
