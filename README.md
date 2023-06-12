@@ -1,3 +1,8 @@
+# Mailchimp official gem
+As of 2020, Mailchimp has an official gem for this: https://rubygems.org/gems/MailchimpTransactional
+
+As of June 2023, this mandrill-api gem is working (and we are still using it), but I don't know how long that will stay true.
+
 # mandrill-api-ruby
 
 
