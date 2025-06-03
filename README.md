@@ -3,6 +3,8 @@ As of 2020, Mailchimp has an official gem for this: https://rubygems.org/gems/Ma
 
 As of June 2023, this mandrill-api gem is working (and we are still using it), but I don't know how long that will stay true.
 
+On June 3, 2025, in an attempt to resolve a warning github was showing, I accidentally wiped the history by clicking on "discard 8 commits".  I had a local backup, so I cherry-picked them, but the timestamps of the commits are no longer valid.  The first 3 were 2017, the next 2 2020, the next 2 2023, and the last 1 2025
+
 # mandrill-api-ruby
 
 
